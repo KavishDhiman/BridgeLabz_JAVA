@@ -1,17 +1,29 @@
 package Methods.Level1;
+
 import java.util.*;
+
+// Class to calculate simple interest
 public class SimpleInterest {
-    public static double calculatesimpleinterest(double principal,double rate,double time){
-        return (principal*rate*time)/100;
+
+    // Method to calculate simple interest using formula (P * R * T) / 100
+    public static double calculatesimpleinterest(double principal, double rate, double time) {
+        return (principal * rate * time) / 100;
     }
 
     public static void main(String[] args) {
+        // Scanner to read user input
         Scanner sc = new Scanner(System.in);
+
+        // Prompt and read principal, rate, and time
         System.out.println("Enter the parameters");
-        double principal=sc.nextDouble();
-        double rate =sc.nextDouble();
+        double principal = sc.nextDouble();
+        double rate = sc.nextDouble();
         double time = sc.nextDouble();
-        double SimpleInterest = calculatesimpleinterest(principal,rate,time);
+
+        // Call method to calculate simple interest
+        double SimpleInterest = calculatesimpleinterest(principal, rate, time);
+
+        // Display the result
         System.out.println("The Simple Interest is " + SimpleInterest +
                 " for Principal " + principal +
                 ", Rate of Interest " + rate +

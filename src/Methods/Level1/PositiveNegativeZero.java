@@ -2,9 +2,10 @@ package Methods.Level1;
 
 import java.util.Scanner;
 
+// Class to check whether a number is positive, negative, or zero
 public class PositiveNegativeZero {
 
-    // Method to check number sign
+    // Method to determine the sign of a number
     public static int numChecker(double num) {
         if (num < 0) {
             return -1;
@@ -16,13 +17,17 @@ public class PositiveNegativeZero {
     }
 
     public static void main(String[] args) {
+        // Scanner to read user input
         Scanner sc = new Scanner(System.in);
 
+        // Prompt and read the number
         System.out.println("Enter the number:");
         double num = sc.nextDouble();
 
+        // Call method to check number sign
         int sign = numChecker(num);
 
+        // Display result based on returned value
         if (sign == 1) {
             System.out.println("Positive");
         } else if (sign == -1) {
