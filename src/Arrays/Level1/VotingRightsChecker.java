@@ -2,20 +2,33 @@ package Arrays.Level1;
 
 import java.util.Scanner;
 
+// Class to check voting eligibility based on age
 public class VotingRightsChecker {
     static void main(String[] args) {
+        // Scanner to read user input
         Scanner sc = new Scanner(System.in);
+
+        // Array to store ages of 10 people
         int[] ages = new int[10];
-        for(int i=0;i<ages.length;i++){
-            ages[i]= sc.nextInt();
+
+        // Loop to read ages into the array
+        for (int i = 0; i < ages.length; i++) {
+            ages[i] = sc.nextInt();
         }
-        for(int age : ages){
-            if (age<0){
+
+        // Enhanced for-loop to check voting eligibility for each age
+        for (int age : ages) {
+
+            // Check for invalid age
+            if (age < 0) {
                 System.out.println("Invalid Age");
-            } else if (age <=18) {
+
+                // Check if age is eligible for voting
+            } else if (age <= 18) {
                 System.out.println("Ineligble to vote");
 
-            }else {
+                // Age is valid for voting
+            } else {
                 System.out.println("Valid Age");
             }
         }
