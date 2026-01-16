@@ -135,4 +135,31 @@
 - Faced issues while solving method-based problems
 
 ---
+## 8th January, 2026
+
+### What I’ve done:
+- Completed Git and GitFlow
+
+### What I will do next:
+- None
+
+### Issues:
+- Understanding the working of GitFlow
+
+---
+
+## 9th January, 2026
+
+### What I’ve done:
+- Completed questions on static keyword
+
+### What I will do next:
+- Complete the remaining incomplete questions
+
+### Issues:
+- None
+
+
+
+
 
