@@ -1,4 +1,4 @@
-package week2.Level1;
+package ConstructorsAndInstances.Level1;
 
 public class HotelBooking {
     String guestName;
