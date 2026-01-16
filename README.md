@@ -88,3 +88,30 @@ What I will do next:
 Complete remaining Level 3 problems in methods
 Issues:
 Faced issues while solving method-based problems
+
+
+
+8th January , 2026 
+what I've done:
+installed IntelliJ , started with Java basics and week 1 day 1 
+what i will do next:
+start with Day 2
+Issues : 
+None
+
+
+9th January , 2026
+what I have done:
+day 2 level 1 and 2 problems
+what I will do next:
+reemaining level3 problems 
+issues faces:
+None
+
+10th January, 2026
+what i have done : 
+completed day 2 problmes and started with day 3
+what i will do next:
+complete day 3 leve2 
+Issues Faced: 
+None
