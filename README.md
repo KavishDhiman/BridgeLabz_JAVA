@@ -1,4 +1,4 @@
-# BridgeLabz_JAVA_CG
+
 
 ## Daily Progress Log – BridgeLabz Training
 
