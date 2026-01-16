@@ -158,79 +158,18 @@
 
 ### Issues:
 - None
+10-Jan-2026 (Saturday): Revised Java basics including variables, data types, operators, and input/output handling.
 
-## 10th January, 2026
+11-Jan-2026 (Sunday): Practiced Programming Elements and solved related Java problems.
 
-### What I’ve done:
-- Practiced Object Oriented Design Principles
-- Studied Class Diagrams and Object Modeling
-- Reviewed real-world OOP design examples
+12-Jan-2026 (Monday): Continued Programming Elements and strengthened logical problem-solving skills.
 
-### What I will do next:
-- Apply OOP design concepts in Java programs
+13-Jan-2026 (Tuesday): Studied Control Flow concepts including conditional statements and loops.
 
-### Issues:
-- Understanding proper relationships between classes
+14-Jan-2026 (Wednesday): Solved Control Flow Level 1 and Level 2 programs and committed changes to feature/CoreProgramming branch.
 
----
+15-Jan-2026 (Thursday): Completed Control Flow Level 3 programs. Practiced Arrays and solved array-based problems.
 
-## 11th January, 2026
-
-### What I’ve done:
-- Continued practice on Object Modeling
-- Improved class structure and design
-- Revised OOP concepts before submission
-
-### What I will do next:
-- Start Inheritance tasks
-
-### Issues:
-- Needed better clarity on UML-to-code mapping
-
----
-
-## 12th January, 2026
-
-### What I’ve done:
-- Practiced Inheritance
-- Completed Week 2 – Day 5 tasks
-- Pushed code to GitHub
-
-### What I will do next:
-- Practice encapsulation and polymorphism
-
-### Issues:
-- Designing correct inheritance hierarchy
-
----
-
-## 13th January, 2026
-
-### What I’ve done:
-- Practiced Encapsulation, Polymorphism, Interface, and Abstract Classes
-- Completed assigned tasks
-- Attended review session
-
-### What I will do next:
-- Fix issues based on review feedback
-
-### Issues:
-- Implementing abstraction efficiently
-
----
-
-## 14th January, 2026
-
-### What I’ve done:
-- Practiced Object Modeling and Class Diagrams
-- Started Data Structures – LinkedList
-- Followed Git repository structure
-
-### What I will do next:
-- Complete LinkedList assignment
-
-### Issues:
-- Understanding proper Git folder structure
-
+16-Jan-2026 (Friday): Completed Methods and String programs. Learned Git and Git Flow process, branch creation, publishing, and daily workflow management.
 
 
