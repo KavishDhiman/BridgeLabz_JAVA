@@ -1,22 +1,62 @@
-package oopsprogrammingfundamentals.level1;
+/*
+ * Problem Statement:
+ * Write a Java program to create a MobilePhone class,
+ * store mobile phone details, and display them.
+ */
 
-public class MobilePhone {
+/*
+ * Class Name: MobilePhone
+ *
+ * Description:
+ * This class represents a Mobile Phone entity with attributes
+ * such as brand, model, and price. It demonstrates object
+ * creation, attribute assignment, and displaying details
+ * using a class method.
+ */
+
+// Class MobilePhone represents a mobile phone
+class MobilePhone {
+
+    // Variable to store mobile brand
     String brand;
+
+    // Variable to store mobile model
     String model;
+
+    // Variable to store mobile price
     double price;
 
-    void displayDetails() {
+    /*
+     * Method to display mobile phone details
+     */
+    void displayPhoneDetails() {
+
+        // Display mobile brand
         System.out.println("Brand: " + brand);
+
+        // Display mobile model
         System.out.println("Model: " + model);
-        System.out.println("Price: " + price);
+
+        // Display mobile price
+        System.out.println("Price: INR " + price);
     }
 
+    // Main method – starting point of program
     public static void main(String[] args) {
-        MobilePhone phone = new MobilePhone();
-        phone.brand = "Samsung";
-        phone.model = "S21";
-        phone.price = 70000;
 
-        phone.displayDetails();
+        // Creating object of MobilePhone class
+        MobilePhone phone = new MobilePhone();
+
+        // Assigning brand
+        phone.brand = "Samsung";
+
+        // Assigning model
+        phone.model = "Galaxy S23";
+
+        // Assigning price
+        phone.price = 74999.0;
+
+        // Display mobile phone details
+        phone.displayPhoneDetails();
     }
 }

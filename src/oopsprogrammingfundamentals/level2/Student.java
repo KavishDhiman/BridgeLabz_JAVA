@@ -1,5 +1,20 @@
 package oopsprogrammingfundamentals.level2;
+/*
+ * Problem Statement:
+ * Write a Java program to create a Student class,
+ * calculate the grade based on marks, and display
+ * the student report.
+ */
 
+/*
+ * Class Name: Student
+ *
+ * Description:
+ * This class represents a student entity with attributes
+ * such as name, roll number, and marks. It calculates the
+ * grade based on marks and displays the complete student
+ * report.
+ */
 public class Student {
     String name;
     int rollNumber;
