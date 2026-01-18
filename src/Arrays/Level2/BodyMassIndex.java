@@ -1,7 +1,21 @@
 package Arrays.Level2;
 
 import java.util.Scanner;
+/*
+ * Problem Statement:
+ * Write a Java program to calculate the Body Mass Index (BMI)
+ * for multiple persons using separate arrays for weight,
+ * height, BMI, and status. The program should take user input,
+ * calculate BMI, determine health status, and display results.
+ */
 
+/*
+
+ * Description:
+ * This class calculates BMI for multiple persons using
+ * one-dimensional arrays to store weight, height, BMI values,
+ * and corresponding health status.
+ */
 // Class to calculate BMI and weight status using separate arrays
 public class BodyMassIndex {
     public static void main(String[] args) {

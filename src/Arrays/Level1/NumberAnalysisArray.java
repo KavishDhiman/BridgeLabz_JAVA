@@ -1,7 +1,21 @@
 package Arrays.Level1;
 
 import java.util.Scanner;
+/*
+ * Problem Statement:
+ * Write a Java program to analyze numbers stored in an array by checking
+ * whether each number is positive, negative, zero, even, or odd, and then
+ * compare the first and last elements of the array.
+ */
 
+/*
+ * Class Name: NumberAnalysis
+ *
+ * Description:
+ * This class accepts five integer values from the user, stores them in an array,
+ * analyzes each number to determine its nature (positive, negative, zero,
+ * even or odd), and finally compares the first and last elements of the array.
+ */
 // Class to analyze numbers for zero, positive/negative, and even/odd
 public class NumberAnalysisArray {
     static void main(String[] args) {

@@ -1,7 +1,20 @@
 package Arrays.Level1;
 
 import java.util.Scanner;
+/*
+ * Problem Statement:
+ * Write a Java program to copy elements of a 2D array into a 1D array
+ * and display the resulting 1D array.
+ */
 
+/*
+ * Class Name: TwoDToOneD
+ *
+ * Description:
+ * This class reads the number of rows and columns, accepts elements
+ * for a 2D array, copies all elements into a 1D array in row-wise order,
+ * and then displays the contents of the 1D array.
+ */
 // Class to convert a 2D array into a 1D array
 public class TwoDArrayToOneDArray {
     public static void main(String[] args) {

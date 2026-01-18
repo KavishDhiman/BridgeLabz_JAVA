@@ -1,25 +1,42 @@
-package Arrays.Level1;
-
 import java.util.Scanner;
 
-// Class to generate and store a multiplication table using an array
-public class MultiplicationTableArray {
+/**
+ * Problem Statement:
+ * Write a Java program to generate the multiplication table of a given number
+ * and store the results in an array.
+ *
+ * The program should:
+ * - Take an integer input from the user
+ * - Create an array of size 10 to store multiplication results
+ * - Generate the multiplication table from 1 to 10
+ * - Store each multiplication result in the array
+ * - Display the multiplication table using the stored values
+ *
+ * This program demonstrates:
+ * - Use of arrays
+ * - Looping with for loops
+ * - Storing computed values in an array
+ * - User input handling using Scanner
+ */
+
+// Class to store multiplication table in array
+class MultiplicationTableArray {
+
     public static void main(String[] args) {
-        // Scanner to read user input
+
         Scanner input = new Scanner(System.in);
 
-        // Read the number for which table is generated
         int number = input.nextInt();
 
         // Array to store multiplication results
         int[] table = new int[10];
 
-        // Loop to calculate and store table values
+        // Generating multiplication table
         for (int i = 1; i <= 10; i++) {
             table[i - 1] = number * i;
         }
 
-        // Loop to display the multiplication table
+        // Displaying multiplication table
         for (int i = 1; i <= 10; i++) {
             System.out.println(number + " * " + i + " = " + table[i - 1]);
         }

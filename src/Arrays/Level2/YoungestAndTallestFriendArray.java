@@ -1,7 +1,21 @@
 package Arrays.Level2;
 
 import java.util.Scanner;
+/*
+ * Problem Statement:
+ * Write a Java program to determine the youngest and tallest
+ * among three friends. The program should take age and height
+ * as input and display the name of the youngest and tallest friend.
+ */
 
+/*
+ * Class Name: YoungestTallestFriendsArray
+ *
+ * Description:
+ * This class stores names, ages, and heights of three friends
+ * using arrays and determines the youngest and tallest friend
+ * based on the given input.
+ */
 // Class to find the youngest age and tallest height among friends
 public class YoungestAndTallestFriendArray {
     public static void main(String[] args) {

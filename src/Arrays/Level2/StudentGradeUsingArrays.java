@@ -1,7 +1,10 @@
 package Arrays.Level2;
 
 import java.util.Scanner;
-
+/*
+ * This class calculates percentage and grade
+ * for multiple students based on their marks.
+ */
 // Class to calculate student percentage and grade using arrays
 public class StudentGradeUsingArrays {
     public static void main(String[] args) {

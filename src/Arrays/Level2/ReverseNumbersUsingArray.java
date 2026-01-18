@@ -2,6 +2,10 @@ package Arrays.Level2;
 
 import java.util.Scanner;
 
+/*
+ * This class reverses a given number
+ * by storing its digits in an array.
+ */
 // Class to reverse a number using an array
 public class ReverseNumbersUsingArray {
     public static void main(String[] args) {

@@ -1,7 +1,21 @@
 package Arrays.Level2;
 
 import java.util.Scanner;
+/*
+ * Problem Statement:
+ * Write a Java program to calculate bonus and updated salary
+ * for 10 employees based on their years of service.
+ * The program should also calculate the total bonus paid,
+ * total old salary, and total new salary.
+ */
 
+/*
+ *
+ * Description:
+ * This class calculates employee bonus and revised salary
+ * using arrays. Bonus is calculated based on years of service,
+ * and cumulative totals are displayed at the end.
+ */
 // Class to calculate employee bonuses and updated salaries
 public class EmployeeBonusCalculator {
     public static void main(String[] args) {

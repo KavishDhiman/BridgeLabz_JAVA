@@ -1,7 +1,11 @@
 package Arrays.Level2;
 
 import java.util.Scanner;
-
+/*
+ * This class extracts digits from an integer number,
+ * stores them in an array, and determines the largest
+ * and second largest digits among them.
+ */
 // Class to find the largest and second largest digits using a dynamic array
 public class LargestAndSecondDynamic {
     public static void main(String[] args) {
