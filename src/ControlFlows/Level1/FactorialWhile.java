@@ -7,7 +7,7 @@ package ControlFlows.Level1;
 public class FactorialWhile {
 
     public static void main(String[] args) {
-
+        // initialization
         int number = 5;
         int factorial = 1;
 

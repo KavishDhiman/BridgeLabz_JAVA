@@ -1,7 +1,26 @@
 package ControlFlows.Level2;
 
 import java.util.Scanner;
+/*
+ * Problem Statement:
+ * Write a Java program to print numbers from 1 to a given
+ * positive number using the FizzBuzz logic.
+ *
+ * Rules:
+ * - Print "FizzBuzz" for numbers divisible by both 3 and 5
+ * - Print "Fizz" for numbers divisible by 3
+ * - Print "Buzz" for numbers divisible by 5
+ * - Print the number otherwise
+ */
 
+/*
+ * Class Name: FizzBuzzFor
+ *
+ * Description:
+ * This class reads a positive integer from the user and
+ * uses a for loop to apply FizzBuzz rules while printing
+ * values from 1 up to the given number.
+ */
 // Class to print FizzBuzz output using a for loop
 public class FizzBuzzFor {
     public static void main(String[] args) {

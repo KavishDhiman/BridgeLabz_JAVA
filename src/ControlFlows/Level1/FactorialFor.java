@@ -7,7 +7,7 @@ package ControlFlows.Level1;
 public class FactorialFor {
 
     public static void main(String[] args) {
-
+        // inititalization
         int number = 5;
         int factorial = 1;
 
