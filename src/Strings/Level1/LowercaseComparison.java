@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Convert a string to lowercase manually and compare it with built-in method.
+ *
+ * Description:
+ * ------------
+ * The program converts a string to lowercase using manual character
+ * manipulation and compares the result with Java’s built-in toLowerCase()
+ * method to verify correctness.
+ */
+
 package Strings.Level1;
 
 import java.util.Scanner;

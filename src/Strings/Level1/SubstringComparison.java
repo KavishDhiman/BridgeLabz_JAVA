@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Generate a substring manually and compare it with the built-in method.
+ *
+ * Description:
+ * ------------
+ * The program creates a substring using character-by-character extraction
+ * and compares it with Java’s built-in substring() method to verify correctness.
+ */
+
 package Strings.Level1;
 
 import java.util.Scanner;

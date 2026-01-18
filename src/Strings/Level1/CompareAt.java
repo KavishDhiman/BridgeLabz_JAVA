@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Compare two strings using character comparison and built-in methods.
+ *
+ * Description:
+ * ------------
+ * The program compares two strings using a custom charAt() based method
+ * and the built-in equals() method, then verifies whether both results match.
+ */
+
 package Strings.Level1;
 
 import java.util.Scanner;

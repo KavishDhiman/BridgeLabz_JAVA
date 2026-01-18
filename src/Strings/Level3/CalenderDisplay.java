@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Display the calendar for a given month and year.
+ *
+ * Description:
+ * ------------
+ * The program calculates leap years, determines the starting day of the
+ * month, and prints a formatted monthly calendar.
+ */
+
 package Strings.Level3;
 
 // Class to display a monthly calendar

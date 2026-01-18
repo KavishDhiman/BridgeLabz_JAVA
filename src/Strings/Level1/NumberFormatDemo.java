@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Demonstrate NumberFormatException for invalid numeric input.
+ *
+ * Description:
+ * ------------
+ * The program attempts to convert a non-numeric string into an integer to
+ * show how NumberFormatException occurs and how it can be handled using
+ * try-catch.
+ */
+
 package Strings.Level1;
 
 import java.util.Scanner;

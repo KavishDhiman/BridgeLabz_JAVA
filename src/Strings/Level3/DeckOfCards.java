@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Simulate a deck of playing cards with shuffling and distribution.
+ *
+ * Description:
+ * ------------
+ * The program creates a standard deck of cards using suits and ranks,
+ * shuffles the deck randomly, and distributes a fixed number of cards
+ * to multiple players.
+ */
+
 package Strings.Level3;
 
 // Class to simulate a deck of cards with shuffling and distribution

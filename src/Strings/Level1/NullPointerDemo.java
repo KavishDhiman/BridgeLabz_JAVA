@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Demonstrate NullPointerException and its handling.
+ *
+ * Description:
+ * ------------
+ * The program attempts to access a method on a null reference to show how
+ * NullPointerException occurs and how it can be handled using try-catch.
+ */
+
 package Strings.Level1;
 
 // Class to demonstrate NullPointerException

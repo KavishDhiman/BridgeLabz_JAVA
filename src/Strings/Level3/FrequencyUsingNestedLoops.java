@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Find the frequency of each character in a string using nested loops.
+ *
+ * Description:
+ * ------------
+ * The program counts occurrences of characters in a string using a
+ * nested-loop approach and displays each character with its frequency.
+ */
+
 package Strings.Level3;
 
 import java.util.Scanner;

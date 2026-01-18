@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Demonstrate IllegalArgumentException using invalid substring indexes.
+ *
+ * Description:
+ * ------------
+ * The program attempts to extract a substring using incorrect index values
+ * to show how IllegalArgumentException occurs and how it can be handled
+ * using try-catch.
+ */
+
 package Strings.Level1;
 
 import java.util.Scanner;

@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate the frequency of each character in a given string.
+ *
+ * Description:
+ * ------------
+ * The program counts occurrences of each character in a string and
+ * stores the character-frequency pairs in a 2D array for display.
+ */
+
 package Strings.Level3;
 
 // Class to calculate frequency of each character in a string

@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Demonstrate ArrayIndexOutOfBoundsException and its handling.
+ *
+ * Description:
+ * ------------
+ * The program intentionally accesses an invalid array index to show how
+ * an exception occurs and how it can be handled using try-catch.
+ */
+
 package Strings.Level1;
 
 // Class to demonstrate ArrayIndexOutOfBoundsException

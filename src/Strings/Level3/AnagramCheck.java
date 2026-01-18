@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Check whether two given strings are anagrams of each other.
+ *
+ * Description:
+ * ------------
+ * The program compares character frequencies of two strings to determine
+ * whether they contain the same characters in a different order.
+ */
+
 package Strings.Level3;
 
 // Class to check whether two strings are anagrams

@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Find the first non-repeating character in a given string.
+ *
+ * Description:
+ * ------------
+ * The program counts the frequency of each character in a string and
+ * identifies the first character that appears only once.
+ */
+
 package Strings.Level3;
 
 // Class to find the first non-repeating character in a string

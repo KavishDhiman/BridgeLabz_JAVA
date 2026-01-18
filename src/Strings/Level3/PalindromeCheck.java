@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Check whether a given string is a palindrome using multiple approaches.
+ *
+ * Description:
+ * ------------
+ * The program verifies if a string reads the same forwards and backwards
+ * using three different techniques: two-pointer comparison, recursion,
+ * and string reversal.
+ */
+
 package Strings.Level3;
 
 // Class to check whether a string is a palindrome using different logics

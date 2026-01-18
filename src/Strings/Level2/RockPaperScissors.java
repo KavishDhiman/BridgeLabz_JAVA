@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Simulate a Rock-Paper-Scissors game between a user and the computer.
+ *
+ * Description:
+ * ------------
+ * The program allows the user to play multiple rounds against the computer,
+ * randomly generates computer choices, determines the winner of each round,
+ * and displays the total wins for both.
+ */
+
 package Strings.Level2;
 
 import java.util.Random;

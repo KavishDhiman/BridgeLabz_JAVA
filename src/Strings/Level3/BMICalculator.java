@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate and display BMI details for multiple people.
+ *
+ * Description:
+ * ------------
+ * The program reads weight and height data for multiple individuals,
+ * calculates their BMI, determines health status, and displays the
+ * results in a tabular format.
+ */
+
 import java.util.Scanner;
 
 // Class to calculate and display BMI details for multiple people

@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Find and display all unique characters present in a string.
+ *
+ * Description:
+ * ------------
+ * The program determines the length of a string without using length(),
+ * extracts characters that appear only once, and displays them.
+ */
+
 package Strings.Level3;
 
 // Class to find unique characters in a string

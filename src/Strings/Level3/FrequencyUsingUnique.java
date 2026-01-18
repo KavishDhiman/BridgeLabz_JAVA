@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Find the frequency of each character in a string using unique character extraction.
+ *
+ * Description:
+ * ------------
+ * The program first extracts unique characters from the input string,
+ * then calculates and displays the frequency of each unique character.
+ */
+
 package Strings.Level3;
 
 import java.util.Scanner;
