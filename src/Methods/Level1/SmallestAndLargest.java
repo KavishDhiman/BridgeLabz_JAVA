@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Find the smallest and largest values among three given numbers.
+ *
+ * Description:
+ * ------------
+ * The program reads three integers, determines the smallest and largest
+ * values using a method, and displays the results.
+ */
+
 package Methods.Level1;
 
 import java.util.Scanner;

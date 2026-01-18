@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Perform basic calendar-related calculations for dates.
+ *
+ * Description:
+ * ------------
+ * The class provides methods to check leap years and determine the
+ * first day of a given month and year using date calculation logic.
+ */
+
 package Methods.Level3;
 
 // Class to support calendar-related calculations

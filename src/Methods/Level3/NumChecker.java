@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Perform various checks and operations on a number and its digits.
+ *
+ * Description:
+ * ------------
+ * The class provides methods to analyze digits of a number, check special
+ * number properties, and determine largest and smallest digit values.
+ */
+
 package Methods.Level3;
 
 // Class to perform various checks and operations on numbers and their digits

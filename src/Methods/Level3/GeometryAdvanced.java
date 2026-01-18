@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Perform advanced geometric calculations using coordinate points.
+ *
+ * Description:
+ * ------------
+ * The class provides methods to calculate the distance between two points
+ * and determine the slope and intercept of the line joining them.
+ */
+
 package Methods.Level3;
 
 // Class to perform advanced geometry calculations

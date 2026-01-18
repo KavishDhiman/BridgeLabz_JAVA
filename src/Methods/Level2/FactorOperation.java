@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Perform operations on the factors of a given number.
+ *
+ * Description:
+ * ------------
+ * The program finds all factors of a number and calculates their sum,
+ * product, and sum of squares using separate methods.
+ */
+
 package Methods.Level2;
 
 import java.util.Scanner;

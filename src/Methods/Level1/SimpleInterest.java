@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate the simple interest for given principal, rate of interest, and time.
+ *
+ * Description:
+ * ------------
+ * The program uses the simple interest formula to compute interest based on
+ * user input and displays the calculated value.
+ */
+
 package Methods.Level1;
 
 import java.util.*;

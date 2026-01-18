@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Check whether a given year is a leap year.
+ *
+ * Description:
+ * ------------
+ * The program uses standard leap year rules to determine whether the
+ * entered year is a leap year and displays the result.
+ */
+
 package Methods.Level2;
 
 import java.util.Scanner;

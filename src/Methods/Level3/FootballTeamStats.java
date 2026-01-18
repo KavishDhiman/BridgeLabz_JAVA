@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate basic statistics of a football team's player heights.
+ *
+ * Description:
+ * ------------
+ * The program generates random heights for players and calculates the
+ * mean, shortest, and tallest heights using separate methods.
+ */
+
 package Methods.Level3;
 
 import java.util.Random;

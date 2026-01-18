@@ -1,28 +1,32 @@
-package Methods.Level1;
-
 import java.util.Scanner;
 
 // Class to distribute chocolates among children
-public class ChocalateDistribution {
+class ChocolateDistribution {
 
-    // Method to calculate quotient and remainder of chocolate distribution
+    // Method returns:
+    // index 0 → chocolates per child
+    // index 1 → remaining chocolates
     public static int[] findRemainderAndQuotient(int chocolates, int children) {
-        return new int[]{chocolates / children, chocolates % children};
+
+        int perChild = chocolates / children;
+        int remaining = chocolates % children;
+
+        return new int[]{perChild, remaining};
     }
 
     public static void main(String[] args) {
-        // Scanner to read user input
-        Scanner sc = new Scanner(System.in);
 
-        // Read number of chocolates and children
-        int chocolates = sc.nextInt();
-        int children = sc.nextInt();
+        Scanner input = new Scanner(System.in);
 
-        // Call method to get distribution result
+        // Reading total chocolates and number of children
+        int chocolates = input.nextInt();
+        int children = input.nextInt();
+
+        // Calling method
         int[] result = findRemainderAndQuotient(chocolates, children);
 
-        // Display distribution details
-        System.out.println("Each child gets " + result[0]);
+        // Displaying result
+        System.out.println("Each child gets " + result[0] + " chocolates");
         System.out.println("Remaining chocolates " + result[1]);
     }
 }

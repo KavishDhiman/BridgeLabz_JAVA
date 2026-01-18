@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate the sum of the first n natural numbers.
+ *
+ * Description:
+ * ------------
+ * The program takes an integer n as input, computes the sum from 1 to n
+ * using a loop, and displays the result.
+ */
+
 package Methods.Level1;
 
 import java.util.Scanner;

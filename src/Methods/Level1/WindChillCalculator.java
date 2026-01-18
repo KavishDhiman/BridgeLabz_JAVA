@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate the wind chill based on given temperature and wind speed.
+ *
+ * Description:
+ * ------------
+ * The program uses the standard wind chill formula to compute and display
+ * the perceived temperature based on user input.
+ */
+
 package Methods.Level1;
 
 import java.util.Scanner;

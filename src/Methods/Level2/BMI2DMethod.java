@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate the Body Mass Index (BMI) of multiple persons and determine
+ * their health status.
+ *
+ * Description:
+ * ------------
+ * The program uses a 2D array to store weight, height, and BMI for each
+ * person, calculates BMI using methods, and displays the BMI with status.
+ */
+
 package Methods.Level2;
 
 import java.util.Scanner;

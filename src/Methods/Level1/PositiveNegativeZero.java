@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Check whether a given number is positive, negative, or zero.
+ *
+ * Description:
+ * ------------
+ * The program takes a number as input, determines its sign using a method,
+ * and displays whether it is positive, negative, or zero.
+ */
+
 package Methods.Level1;
 
 import java.util.Scanner;

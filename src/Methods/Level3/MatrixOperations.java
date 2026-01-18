@@ -1,3 +1,15 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Perform basic operations on matrices such as generation, addition,
+ * and transpose.
+ *
+ * Description:
+ * ------------
+ * The class provides methods to generate a matrix with random values,
+ * add two matrices, and compute the transpose of a matrix.
+ */
+
 package Methods.Level3;
 
 import java.util.Random;

@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Generate employee salary data and calculate bonus based on years of service.
+ *
+ * Description:
+ * ------------
+ * The class generates random salary and service-year data for employees and
+ * calculates bonus and updated salary using predefined rules.
+ */
+
 package Methods.Level3;
 
 import java.util.Random;

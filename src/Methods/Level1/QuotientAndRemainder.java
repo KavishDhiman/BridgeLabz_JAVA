@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Find the quotient and remainder when one number is divided by another.
+ *
+ * Description:
+ * ------------
+ * The program takes two integers as input, calculates the quotient and
+ * remainder using a method, and displays the results.
+ */
+
 package Methods.Level1;
 
 import java.util.Scanner;

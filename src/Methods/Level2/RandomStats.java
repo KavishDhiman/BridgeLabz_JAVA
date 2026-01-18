@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Generate random 4-digit numbers and compute basic statistics.
+ *
+ * Description:
+ * ------------
+ * The program generates an array of random 4-digit numbers, calculates
+ * the average, minimum, and maximum values, and displays the results.
+ */
+
 package Methods.Level2;
 
 import java.util.Random;

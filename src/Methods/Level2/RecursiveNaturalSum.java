@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate the sum of first n natural numbers using recursion and formula.
+ *
+ * Description:
+ * ------------
+ * The program computes the sum of natural numbers using both a recursive
+ * approach and a mathematical formula, then displays the results.
+ */
+
 package Methods.Level2;
 
 import java.util.Scanner;

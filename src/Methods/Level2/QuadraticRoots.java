@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Find the real roots of a quadratic equation.
+ *
+ * Description:
+ * ------------
+ * The program calculates the discriminant to determine the nature of roots
+ * and computes real roots using a separate method.
+ */
+
 package Methods.Level2;
 
 import java.util.Scanner;

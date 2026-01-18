@@ -1,3 +1,24 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Write a program to determine the maximum number of handshakes possible
+ * among a given number of students, assuming that each student shakes hands
+ * with every other student exactly once.
+ *
+ * Description:
+ * ------------
+ * This program calculates the maximum number of handshakes using a mathematical
+ * formula derived from combinations. The calculation ensures that no handshake
+ * is counted more than once.
+ *
+ * The formula used to calculate the maximum number of handshakes is:
+ *     n * (n - 1) / 2
+ * where 'n' represents the total number of students.
+ *
+ * The program takes user input for the number of students, calls a separate
+ * method to perform the calculation, and then displays the result.
+ */
+
 package Methods.Level1;
 
 import java.util.Scanner;

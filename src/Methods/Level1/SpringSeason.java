@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Check whether a given date falls within the Spring season.
+ *
+ * Description:
+ * ------------
+ * The program takes month and day as input, verifies if the date lies
+ * between March 20 and June 20, and displays the result.
+ */
+
 package Methods.Level1;
 
 // Class to check whether a given date falls in the Spring season

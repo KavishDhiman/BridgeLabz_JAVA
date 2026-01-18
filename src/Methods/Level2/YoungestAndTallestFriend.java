@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Find the youngest age and the tallest height among a group of friends.
+ *
+ * Description:
+ * ------------
+ * The program reads ages and heights of friends, determines the youngest
+ * and tallest values using separate methods, and displays the results.
+ */
+
 package Methods.Level2;
 
 import java.util.Scanner;

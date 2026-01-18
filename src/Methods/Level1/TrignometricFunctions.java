@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate sine, cosine, and tangent values for a given angle.
+ *
+ * Description:
+ * ------------
+ * The program takes an angle in degrees, converts it to radians, computes
+ * trigonometric values using Math functions, and displays the results.
+ */
+
 package Methods.Level1;
 
 import java.util.Scanner;

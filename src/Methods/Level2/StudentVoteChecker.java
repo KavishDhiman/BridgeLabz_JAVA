@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Check the voting eligibility of students based on their age.
+ *
+ * Description:
+ * ------------
+ * The program reads the ages of multiple students and determines whether
+ * each student is eligible to vote using a method.
+ */
+
 package Methods.Level2;
 
 import java.util.Scanner;

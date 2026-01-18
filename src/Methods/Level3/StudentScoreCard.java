@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Generate score cards for students with random subject marks.
+ *
+ * Description:
+ * ------------
+ * The class generates random scores for multiple students across
+ * three subjects using a 2D array.
+ */
+
 package Methods.Level3;
 
 import java.util.Random;

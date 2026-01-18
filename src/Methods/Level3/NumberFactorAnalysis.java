@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Analyze a number based on its factors and special number properties.
+ *
+ * Description:
+ * ------------
+ * The class provides methods to find factors of a number and determine
+ * whether it is perfect, abundant, deficient, or strong.
+ */
+
 package Methods.Level3;
 
 // Class to analyze a number based on its factors and special properties

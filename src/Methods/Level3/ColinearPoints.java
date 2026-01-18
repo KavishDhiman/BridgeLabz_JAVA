@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Check whether three given points lie on the same straight line.
+ *
+ * Description:
+ * ------------
+ * The class provides two methods to determine collinearity of points
+ * using slope comparison and area of triangle approaches.
+ */
+
 package Methods.Level3;
 
 // Class to check if three points are collinear

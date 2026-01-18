@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Calculate the number of rounds required to cover 5000 meters around a park.
+ *
+ * Description:
+ * ------------
+ * The program calculates the park’s perimeter using three sides and determines
+ * how many rounds are needed to complete 5000 meters.
+ */
+
 package Methods.Level1;
 
 import java.util.Scanner;

@@ -1,3 +1,14 @@
+/*
+ * Problem Statement:
+ * ------------------
+ * Generate multiple one-time passwords (OTPs) and verify their uniqueness.
+ *
+ * Description:
+ * ------------
+ * The program generates random 6-digit OTPs, stores them in an array,
+ * and checks whether all generated OTPs are unique.
+ */
+
 package Methods.Level3;
 
 import java.util.Random;
