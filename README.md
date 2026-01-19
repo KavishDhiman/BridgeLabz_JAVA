@@ -173,3 +173,21 @@
 16-Jan-2026 (Friday): Completed Methods and String programs. Learned Git and Git Flow process, branch creation, publishing, and daily workflow management.
 
 
+## 17th january, 2026
+
+### What I’ve done:
+-putting comments on week 1 and 2 programs 
+
+### What I will do next:
+- recheck structure and comments
+
+### Issues:
+-None
+
+
+## 19th January, 2026
+
+### What I’ve done:
+revised week 1 topcis for review 
+what i will do next :
+start week 3 pushing into  git hub
