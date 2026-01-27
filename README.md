@@ -191,3 +191,70 @@
 revised week 1 topcis for review 
 what i will do next :
 start week 3 pushing into  git hub
+
+
+## 20th January, 2026
+
+### What I’ve done:
+completed Linked Lists  
+### what i will do next :
+start with Stacks
+### Issues Faced: 
+during implementation
+
+## 21st January, 2026
+
+### What I’ve done:
+completed stacks and queues  
+### what i will do next :
+start with hashmap
+### Issues Faced: 
+None
+
+## 22nd January, 2026
+
+### What I’ve done:
+completed Hashmaps   
+### what i will do next :
+start with sorting algorithms
+### Issues Faced: 
+None
+
+## 23rd January, 2026
+
+### What I’ve done:
+completed sorting alogirthms
+### what i will do next :
+start with Linear Binary search
+### Issues Faced: 
+during implementation
+
+## 24th January, 2026
+
+### What I’ve done:
+completed Linear binary search 
+### what i will do next :
+start with runtime analysis
+### Issues Faced: 
+None
+
+## 25th January, 2026
+
+### What I’ve done:
+completed runtime analysis  
+### what i will do next :
+start with OOPS BANNER APP
+### Issues Faced: 
+None
+
+
+
+## 27th January, 2026
+
+### What I’ve done:
+completed OOPS BANNER APP
+### what i will do next :
+revise DSA 
+### Issues Faced: 
+None
+
