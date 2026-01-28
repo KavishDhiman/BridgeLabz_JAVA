@@ -1,4 +1,4 @@
-package javacollectionsandstreams.collections;
+package Collections;
 
 public class CircularBuffer {
 

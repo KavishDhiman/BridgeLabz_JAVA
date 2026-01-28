@@ -1,4 +1,4 @@
-package javacollectionsandstreams.collections;
+package Collections;
 
 import java.time.LocalDate;
 import java.util.*;
