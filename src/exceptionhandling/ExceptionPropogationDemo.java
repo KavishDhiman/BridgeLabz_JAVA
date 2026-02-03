@@ -4,7 +4,7 @@
  * travels back through the calling methods (method2) to the main method,
  * where it is finally caught and handled.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

@@ -4,7 +4,7 @@
  * try-with-resources statement ensures that system resources like file
  * handles are released, preventing memory leaks.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

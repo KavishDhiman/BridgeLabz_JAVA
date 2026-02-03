@@ -4,7 +4,7 @@
  * IOExceptions locally within the loop so that a failure to read one file
  * does not stop the processing of subsequent files.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

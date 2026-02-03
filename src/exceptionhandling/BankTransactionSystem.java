@@ -4,7 +4,7 @@
  * (Insufficient Balance) and standard unchecked exceptions for input
  * validation (Illegal Argument).
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

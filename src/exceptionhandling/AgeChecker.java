@@ -3,7 +3,7 @@
  * It defines a user-defined checked exception (InvalidAgeException)
  * to enforce business logic rules regarding age requirements.
  *
- * @author gopal;
+
  */
 package exceptionhandling;
 

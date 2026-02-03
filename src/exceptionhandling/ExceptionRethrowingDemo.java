@@ -3,7 +3,7 @@
  * It shows how a method can catch a specific exception and rethrow it
  * with a more descriptive or customized message to the caller.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

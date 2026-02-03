@@ -3,7 +3,7 @@
  * catch blocks to handle specific runtime exceptions. It distinguishes between
  * mathematical errors and user input errors.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

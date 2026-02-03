@@ -4,7 +4,7 @@
  * division, managing both environmental failures (missing files) and
  * logical/runtime failures (division by zero or bad data format).
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

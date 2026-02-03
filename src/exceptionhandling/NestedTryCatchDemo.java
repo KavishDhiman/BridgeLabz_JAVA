@@ -3,7 +3,7 @@
  * different types of RuntimeExceptions that can occur during a single
  * operation involving array access and mathematical division.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

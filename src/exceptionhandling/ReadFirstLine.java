@@ -3,7 +3,7 @@
  * It demonstrates efficient resource management using try-with-resources
  * and the specific behavior of BufferedReader's readLine() method.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

@@ -4,7 +4,7 @@
  * UserNotFoundException) to handle specific business logic failures
  * during registration and search operations.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

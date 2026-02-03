@@ -4,7 +4,7 @@
  * is closed and a final message is printed, regardless of whether an
  * ArithmeticException or any other exception is thrown.
  *
- * @author gopal;
+
  */
 package exceptionhandling;
 

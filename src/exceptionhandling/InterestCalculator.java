@@ -3,7 +3,7 @@
  * rate, and duration. It demonstrates the use of IllegalArgumentException
  * to validate that input values are within logical bounds.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

@@ -3,7 +3,6 @@
  * specifically focusing on NullPointerException and IndexOutOfBoundsException
  * when working with dynamic collections like ArrayList.
  *
- * @author gopal;
  */
 package exceptionhandling;
 

@@ -4,7 +4,7 @@
  * This is often used in multi-layered applications to provide
  * better context for errors.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

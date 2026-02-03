@@ -3,7 +3,7 @@
  * It reads content from two separate input files and merges them into a
  * single output file, ensuring all streams are closed automatically.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 

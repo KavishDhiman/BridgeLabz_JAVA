@@ -3,7 +3,7 @@
  * It demonstrates the use of BufferedReader for efficient character reading
  * and the try-with-resources statement for automatic resource management.
  *
- * @author gopal;
+ *
  */
 package exceptionhandling;
 
