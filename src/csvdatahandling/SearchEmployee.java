@@ -1,29 +1,31 @@
+package iostreams.csvdatahandling;
+
 import java.io.*;
-import java.util.Scanner;
+import java.util.*;
 
 public class SearchEmployee {
-
     public static void main(String[] args) {
-
-        String filePath = "employees.csv";
         Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter employee CSV file name: ");
+        String fileName = sc.nextLine();
 
         System.out.print("Enter employee name to search: ");
         String searchName = sc.nextLine();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+        boolean found = false;
 
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(fileName));
             String line;
+
             br.readLine(); // skip header
 
-            boolean found = false;
-
             while ((line = br.readLine()) != null) {
-
                 String[] data = line.split(",");
 
                 if (data[1].equalsIgnoreCase(searchName)) {
-
+                    System.out.println("\nEmployee Found!");
                     System.out.println("Department: " + data[2]);
                     System.out.println("Salary: " + data[3]);
                     found = true;
@@ -31,14 +33,17 @@ public class SearchEmployee {
                 }
             }
 
+            br.close();
+
             if (!found) {
                 System.out.println("Employee not found.");
             }
 
-        } catch (IOException e) {
-            e.printStackTrace();
+        } catch (Exception e) {
+            System.out.println("Error reading file.");
         }
 
         sc.close();
     }
 }
+

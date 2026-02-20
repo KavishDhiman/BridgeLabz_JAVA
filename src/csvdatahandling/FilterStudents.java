@@ -1,21 +1,26 @@
+package iostreams.csvdatahandling;
+
 import java.io.*;
+import java.util.*;
 
 public class FilterStudents {
-
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-        String filePath = "students.csv";
+        System.out.print("Enter student CSV file name: ");
+        String fileName = sc.nextLine();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
-
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(fileName));
             String line;
+
             br.readLine(); // skip header
 
-            System.out.println("Students scoring more than 80:");
+            System.out.println("\nStudents scoring more than 80:\n");
 
             while ((line = br.readLine()) != null) {
-
                 String[] data = line.split(",");
+
                 int marks = Integer.parseInt(data[3]);
 
                 if (marks > 80) {
@@ -25,8 +30,13 @@ public class FilterStudents {
                 }
             }
 
-        } catch (IOException e) {
-            e.printStackTrace();
+            br.close();
+
+        } catch (Exception e) {
+            System.out.println("Error reading file.");
         }
+
+        sc.close();
     }
 }
+
