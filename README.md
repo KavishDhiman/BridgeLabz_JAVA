@@ -259,307 +259,289 @@ revise DSA
 None
 
 
-28th January, 2026
-What I’ve done:
+## 27th January, 2026
 
-Worked on Java Collections concepts
+### What I’ve done:
+- Completed OOPS Banner App
 
-Completed the Collections assignment
+### What I will do next:
+- Revise DSA
 
-What I will do next:
+### Issues:
+- None
 
-Start Factory Robot Hazard Analyzer project
+---
 
-Issues:
+## 28th January, 2026
 
-None
+### What I’ve done:
+- Worked on Java Collections concepts
+- Completed the Collections assignment
 
-29th January, 2026
-What I’ve done:
+### What I will do next:
+- Start Factory Robot Hazard Analyzer project
 
-Started working on Factory Robot Hazard Analyzer
+### Issues:
+- None
 
-Set up the initial project structure
+---
 
-What I will do next:
+## 29th January, 2026
 
-Complete Factory Robot Hazard Analyzer project
+### What I’ve done:
+- Started working on Factory Robot Hazard Analyzer
+- Set up the initial project structure
 
-Issues:
+### What I will do next:
+- Complete Factory Robot Hazard Analyzer project
 
-None
+### Issues:
+- None
 
-30th January, 2026
-What I’ve done:
+---
 
-Completed Factory Robot Hazard Analyzer
+## 30th January, 2026
 
-Revised Data Structures for review
+### What I’ve done:
+- Completed Factory Robot Hazard Analyzer
+- Revised Data Structures for review
 
-What I will do next:
+### What I will do next:
+- Work on Java IO Streams
 
-Work on Java IO Streams
+### Issues:
+- None
 
-Issues:
+---
 
-None
+## 31st January, 2026
 
-31st January, 2026
-What I’ve done:
+### What I’ve done:
+- Studied Java IO Streams concepts
+- Completed practical implementation
+- Pushed code to GitHub with proper folder structure
+- Attended Data Structure review
 
-Studied Java IO Streams concepts
+### What I will do next:
+- Study Java Exception Handling
 
-Completed practical implementation
+### Issues:
+- None
 
-Pushed code to GitHub with proper folder structure
+---
 
-Attended Data Structure review
+## 2nd February, 2026
 
-What I will do next:
+### What I’ve done:
+- Studied Java Exception Handling concepts
+- Completed practical implementation
+- Pushed Exceptions assignment to GitHub
 
-Study Java Exception Handling
+### What I will do next:
+- Implement Ocean Fleet console-based application
 
-Issues:
+### Issues:
+- None
 
-None
+---
 
-2nd February, 2026
-What I’ve done:
+## 3rd February, 2026
 
-Studied Java Exception Handling concepts
+### What I’ve done:
+- Implemented Ocean Fleet console-based application use case-wise
+- Followed OOPS and Data Structures concepts
+- Used GitFlow branching strategy
 
-Completed practical implementation
+### What I will do next:
+- Work on Regex validation and JUnit
 
-Pushed Exceptions assignment to GitHub
+### Issues:
+- None
 
-What I will do next:
+---
 
-Implement Ocean Fleet console-based application
+## 4th February, 2026
 
-Issues:
+### What I’ve done:
+- Completed Regex validation programs
+- Implemented JUnit test cases
+- Pushed the code using GitFlow process
 
-None
+### What I will do next:
+- Implement Java 8 features
 
-3rd February, 2026
-What I’ve done:
+### Issues:
+- None
 
-Implemented Ocean Fleet console-based application use case-wise
+---
 
-Followed OOPS and Data Structures concepts
+## 5th February, 2026
 
-Used GitFlow branching strategy
+### What I’ve done:
+- Implemented Java 8 features including Streams and Lambda expressions
+- Submitted the GitHub repository link
 
-What I will do next:
+### What I will do next:
+- Prepare for weekly review
 
-Work on Regex validation and JUnit
+### Issues:
+- None
 
-Issues:
+---
 
-None
+## 6th February, 2026
 
-4th February, 2026
-What I’ve done:
+### What I’ve done:
+- Studied thoroughly for the review session
+- Revised Java IO Streams, Exception Handling, OOPS concepts, Data Structures, and Java 8 features
 
-Completed Regex validation programs
+### What I will do next:
+- Attend PowerSkills program
 
-Implemented JUnit test cases
+### Issues:
+- None
 
-Pushed the code using GitFlow process
+---
 
-What I will do next:
+## 7th February, 2026
 
-Implement Java 8 features
+### What I’ve done:
+- Attended PowerSkills program kickoff session
+- Learned the importance of participation, professionalism, and communication
 
-Issues:
+### What I will do next:
+- Create STREAM-API repository
 
-None
+### Issues:
+- None
 
-5th February, 2026
-What I’ve done:
+---
 
-Implemented Java 8 features including Streams and Lambda expressions
+## 9th February, 2026
 
-Submitted the GitHub repository link
+### What I’ve done:
+- Created a new repository named STREAM-API
+- Set up main and develop branches using GitFlow
+- Prepared project structure for Java 8 Streams API implementation
 
-What I will do next:
+### What I will do next:
+- Study Advanced Java – Java 8 Streams concepts
 
-Prepare for weekly review
+### Issues:
+- None
 
-Issues:
+---
 
-None
+## 10th February, 2026
 
-6th February, 2026
-What I’ve done:
+### What I’ve done:
+- Worked on Advanced Java – Java 8 Features
+- Revised functional interfaces, lambda expressions, and stream operations
 
-Studied thoroughly for the review session
+### What I will do next:
+- Complete Streams API assignments
 
-Revised Java IO Streams, Exception Handling, OOPS concepts, Data Structures, and Java 8 features
+### Issues:
+- None
 
-What I will do next:
+---
 
-Attend PowerSkills program
+## 11th February, 2026
 
-Issues:
+### What I’ve done:
+- Completed assignments related to Java 8 Streams API
+- Completed CSV Data Handling assignment
+- Followed proper folder structure and GitFlow process while pushing code
 
-None
+### What I will do next:
+- Start Lexical Twist Puzzle Application
 
-7th February, 2026
-What I’ve done:
+### Issues:
+- None
 
-Attended PowerSkills program kickoff session
+---
 
-Learned the importance of active participation, professionalism, and communication
+## 12th February, 2026
 
-What I will do next:
+### What I’ve done:
+- Started working on console-based Lexical Twist Puzzle Application
+- Planned implementation use case-wise following OOPS principles and GitFlow strategy
 
-Create STREAM-API repository
+### What I will do next:
+- Review pending assignments and revise concepts
 
-Issues:
+### Issues:
+- None
 
-None
+---
 
-9th February, 2026
-What I’ve done:
+## 13th February, 2026
 
-Created a new repository named STREAM-API
+### What I’ve done:
+- Reviewed pending assignments up to CSV Data Handling
+- Prepared for upcoming review
 
-Set up main and develop branches using GitFlow
+### What I will do next:
+- Attend SoftSkills presentation session
 
-Prepared project structure for Java 8 Streams API implementation
+### Issues:
+- None
 
-What I will do next:
+---
 
-Study Advanced Java – Java 8 Streams concepts
+## 14th February, 2026
 
-Issues:
+### What I’ve done:
+- Attended SoftSkills presentation session
+- Practiced structured communication and confident speaking
 
-None
+### What I will do next:
+- Work on Trees and Graphs
 
-10th February, 2026
-What I’ve done:
+### Issues:
+- None
 
-Worked on Advanced Java – Java 8 Features
+---
 
-Revised functional interfaces, lambda expressions, and stream operations
+## 16th February, 2026
 
-What I will do next:
+### What I’ve done:
+- Studied Trees and Graphs concepts
+- Implemented BFS and DFS traversal techniques
+- Worked on binary tree and graph-based problem solving
 
-Complete Streams API assignments
+### What I will do next:
+- Prepare for review session
 
-Issues:
+### Issues:
+- None
 
-None
+---
 
-11th February, 2026
-What I’ve done:
+## 17th February, 2026
 
-Completed assignments related to Java 8 Streams API
+### What I’ve done:
+- Revised Java 8 Features
+- Revised Streams API and CSV Data Handling
+- Revised Trees & Graphs and OOPS concepts
 
-Completed CSV Data Handling assignment
+### What I will do next:
+- Study Annotations and Reflection
 
-Followed proper folder structure and GitFlow process while pushing code
+### Issues:
+- None
 
-What I will do next:
+---
 
-Start Lexical Twist Puzzle Application
+## 18th February, 2026
 
-Issues:
+### What I’ve done:
+- Studied Annotations and Reflection concepts
+- Explored runtime inspection of classes, methods, and fields
+- Implemented practical examples
 
-None
+### What I will do next:
+- Continue Advanced Java practice
 
-12th February, 2026
-What I’ve done:
-
-Started working on console-based Lexical Twist Puzzle Application
-
-Planned implementation use case-wise following OOPS principles and GitFlow strategy
-
-What I will do next:
-
-Review pending assignments and revise concepts
-
-Issues:
-
-None
-
-13th February, 2026
-What I’ve done:
-
-Reviewed pending assignments up to CSV Data Handling
-
-Prepared for upcoming review
-
-What I will do next:
-
-Attend SoftSkills presentation session
-
-Issues:
-
-None
-
-14th February, 2026
-What I’ve done:
-
-Attended SoftSkills presentation session
-
-Practiced structured communication and confident speaking
-
-What I will do next:
-
-Work on Trees and Graphs
-
-Issues:
-
-None
-
-16th February, 2026
-What I’ve done:
-
-Studied Trees and Graphs concepts
-
-Implemented BFS and DFS traversal techniques
-
-Worked on binary tree and graph-based problem solving
-
-What I will do next:
-
-Prepare for review session
-
-Issues:
-
-None
-
-17th February, 2026
-What I’ve done:
-
-Revised Java 8 Features
-
-Revised Streams API and CSV Data Handling
-
-Revised Trees & Graphs and OOPS concepts
-
-What I will do next:
-
-Study Annotations and Reflection
-
-Issues:
-
-None
-
-18th February, 2026
-What I’ve done:
-
-Studied Annotations and Reflection concepts
-
-Explored runtime inspection of classes, methods, and fields
-
-Implemented practical examples
-
-What I will do next:
-
-Continue Advanced Java practice
-
-Issues:
-
-None
+### Issues:
+- None
