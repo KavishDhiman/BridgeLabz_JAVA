@@ -760,4 +760,91 @@ None
 - Continue practicing backend development  
 
 **Issues:**  
+- None
+
+**11th March, 2026**  
+**What I’ve done:**  
+- Completed assignment on Spring  
+- Pushed the code to a new GitHub repository "SpringBootHelloApp"  
+
+**What I will do next:**  
+- Work on Spring REST API assignments  
+
+**Issues:**  
+- None  
+
+---
+
+**12th March, 2026**  
+**What I’ve done:**  
+- Completed assignment on Spring REST API  
+- Updated and pushed code to "SpringBootHelloApp" repository  
+
+**What I will do next:**  
+- Continue practicing Spring concepts  
+
+**Issues:**  
+- None  
+
+---
+
+**13th March, 2026**  
+**What I’ve done:**  
+- Completed assignment on Spring Framework  
+- Pushed updated implementation to "SpringBootHelloApp" repository  
+
+**What I will do next:**  
+- Revise Spring concepts for better understanding  
+
+**Issues:**  
+- None  
+
+---
+
+**14th March, 2026**  
+**What I’ve done:**  
+- Delivered a professional presentation on "Creative Thinking"  
+- Participated in power-skills training session  
+
+**What I will do next:**  
+- Focus on backend and Spring Boot practice  
+
+**Issues:**  
+- None  
+
+---
+
+**16th March, 2026**  
+**What I’ve done:**  
+- Attended review session for Spring Boot applications  
+
+**What I will do next:**  
+- Prepare for upcoming mock exams  
+
+**Issues:**  
+- None  
+
+---
+
+**17th March, 2026**  
+**What I’ve done:**  
+- Prepared for M1 mock exam  
+
+**What I will do next:**  
+- Attempt mock exam and analyze performance  
+
+**Issues:**  
+- None  
+
+---
+
+**18th March, 2026**  
+**What I’ve done:**  
+- Attended M1 mock exam  
+- Noted mentor feedback for improvement  
+
+**What I will do next:**  
+- Work on weak areas identified in review  
+
+**Issues:**  
 - None  
