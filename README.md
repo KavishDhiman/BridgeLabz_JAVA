@@ -518,30 +518,246 @@ None
 
 ---
 
-## 17th February, 2026
+**17th February, 2026**  
+**What I’ve done:**  
+- Revised Java 8 Features  
+- Revised Streams API and CSV Data Handling  
+- Revised Trees & Graphs and OOPS concepts  
 
-### What I’ve done:
-- Revised Java 8 Features
-- Revised Streams API and CSV Data Handling
-- Revised Trees & Graphs and OOPS concepts
+**What I will do next:**  
+- Study Annotations and Reflection  
 
-### What I will do next:
-- Study Annotations and Reflection
-
-### Issues:
-- None
+**Issues:**  
+- None  
 
 ---
 
-## 18th February, 2026
+**18th February, 2026**  
+**What I’ve done:**  
+- Studied Annotations and Reflection concepts  
+- Explored runtime inspection of classes, methods, and fields  
+- Implemented practical examples  
 
-### What I’ve done:
-- Studied Annotations and Reflection concepts
-- Explored runtime inspection of classes, methods, and fields
-- Implemented practical examples
+**What I will do next:**  
+- Continue Advanced Java practice  
 
-### What I will do next:
-- Continue Advanced Java practice
+**Issues:**  
+- None  
 
-### Issues:
-- None
+---
+
+**19th February, 2026**  
+**What I’ve done:**  
+- Implemented Singleton and Factory Design Pattern examples  
+
+**What I will do next:**  
+- Practice more Design Pattern problems  
+
+**Issues:**  
+- None  
+
+---
+
+**20th February, 2026**  
+**What I’ve done:**  
+- Practiced Design Pattern exercises and revised concepts  
+
+**What I will do next:**  
+- Strengthen Design Pattern understanding with more scenarios  
+
+**Issues:**  
+- None  
+
+---
+
+**21st February, 2026**  
+**What I’ve done:**  
+- Attended Power Skills session  
+- Revised Design Pattern concepts  
+
+**What I will do next:**  
+- Start Multithreading concepts  
+
+**Issues:**  
+- None  
+
+---
+
+**23rd February, 2026**  
+**What I’ve done:**  
+- Started learning Java Multithreading  
+- Studied thread lifecycle  
+
+**What I will do next:**  
+- Practice multithreading programs  
+
+**Issues:**  
+- None  
+
+---
+
+**24th February, 2026**  
+**What I’ve done:**  
+- Practiced multithreading and synchronization examples  
+- Gave review on multithreading concepts  
+
+**What I will do next:**  
+- Explore advanced threading concepts  
+
+**Issues:**  
+- None  
+
+---
+
+**25th February, 2026**  
+**What I’ve done:**  
+- Started MySQL Database module  
+- Installed and configured MySQL  
+
+**What I will do next:**  
+- Practice SQL queries and database operations  
+
+**Issues:**  
+- None  
+
+---
+
+**26th February, 2026**  
+**What I’ve done:**  
+- Practiced database creation, tables, and SQL queries  
+
+**What I will do next:**  
+- Start JDBC concepts  
+
+**Issues:**  
+- None  
+
+---
+
+**27th February, 2026**  
+**What I’ve done:**  
+- Started JDBC Introduction  
+- Implemented database connectivity  
+
+**What I will do next:**  
+- Practice JDBC programs  
+
+**Issues:**  
+- None  
+
+---
+
+**28th February, 2026**  
+**What I’ve done:**  
+- Attended Power Skills session  
+- Revised JDBC concepts  
+
+**What I will do next:**  
+- Implement JDBC CRUD operations  
+
+**Issues:**  
+- None  
+
+---
+
+**2nd March, 2026**  
+**What I’ve done:**  
+- Implemented JDBC Prepared Statements  
+- Performed CRUD operations  
+
+**What I will do next:**  
+- Learn transactions in JDBC  
+
+**Issues:**  
+- None  
+
+---
+
+**3rd March, 2026**  
+**What I’ve done:**  
+- Practiced JDBC Transactions  
+- Worked on error handling programs  
+
+**What I will do next:**  
+- Start backend development concepts  
+
+**Issues:**  
+- None  
+
+---
+
+**4th March, 2026**  
+**What I’ve done:**  
+- Started Java Backend concepts  
+- Learned about Tomcat Server  
+
+**What I will do next:**  
+- Implement Servlet programs  
+
+**Issues:**  
+- None  
+
+---
+
+**5th March, 2026**  
+**What I’ve done:**  
+- Implemented basic Servlet program  
+- Deployed application on Tomcat  
+
+**What I will do next:**  
+- Explore more backend concepts  
+
+**Issues:**  
+- None  
+
+---
+
+**6th March, 2026**  
+**What I’ve done:**  
+- Started learning Spring Boot basics  
+- Set up initial project  
+
+**What I will do next:**  
+- Build REST APIs using Spring Boot  
+
+**Issues:**  
+- None  
+
+---
+
+**7th March, 2026**  
+**What I’ve done:**  
+- Attended Power Skills session  
+- Revised Spring Boot fundamentals  
+
+**What I will do next:**  
+- Implement REST APIs  
+
+**Issues:**  
+- None  
+
+---
+
+**9th March, 2026**  
+**What I’ve done:**  
+- Implemented simple Spring Boot REST API  
+- Tested endpoints  
+- Gave review on JDBC, SQL, and ER concepts  
+
+**What I will do next:**  
+- Revise backend concepts  
+
+**Issues:**  
+- None  
+
+---
+
+**10th March, 2026**  
+**What I’ve done:**  
+- Revised Java Backend concepts including Servlet, JDBC, and Spring Boot  
+
+**What I will do next:**  
+- Continue practicing backend development  
+
+**Issues:**  
+- None  
