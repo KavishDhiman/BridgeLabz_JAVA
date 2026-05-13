@@ -847,4 +847,655 @@ None
 - Work on weak areas identified in review  
 
 **Issues:**  
-- None  
+- None
+
+## 19th March, 2026
+
+### What I’ve done:
+- completed Spring Framework concepts  
+- practiced dependency injection and bean configuration
+
+### What I will do next:
+- start Employee Payroll App using Spring Boot
+
+### Issues:
+- None
+
+---
+
+## 20th March, 2026
+
+### What I’ve done:
+- started Employee Payroll App
+- implemented project structure and basic CRUD operations
+
+### What I will do next:
+- continue Employee Payroll App functionalities
+
+### Issues:
+- None
+
+---
+
+## 21st March, 2026
+
+### What I’ve done:
+- attended Power Skills session
+- revised Spring Boot concepts
+
+### What I will do next:
+- complete Employee Payroll App
+
+### Issues:
+- None
+
+---
+
+## 23rd March, 2026
+
+### What I’ve done:
+- completed Employee Payroll App
+- tested API endpoints using Postman
+
+### What I will do next:
+- prepare for assessment
+
+### Issues:
+- None
+
+---
+
+## 24th March, 2026
+
+### What I’ve done:
+- attended M1 Assessment
+
+### What I will do next:
+- start SQL integration with Employee Payroll App
+
+### Issues:
+- None
+
+---
+
+## 25th March, 2026
+
+### What I’ve done:
+- started SQL integration in Employee Payroll App
+- configured MySQL database connectivity
+
+### What I will do next:
+- continue database operations and testing
+
+### Issues:
+- database configuration issues during setup
+
+---
+
+## 26th March, 2026
+
+### What I’ve done:
+- implemented CRUD operations using MySQL
+- tested database integration
+
+### What I will do next:
+- continue Employee Payroll App enhancements
+
+### Issues:
+- None
+
+---
+
+## 27th March, 2026
+
+### What I’ve done:
+- completed Employee Payroll App with SQL integration
+- pushed updated code using GitFlow process
+
+### What I will do next:
+- start Spring Security concepts
+
+### Issues:
+- None
+
+---
+
+## 28th March, 2026
+
+### What I’ve done:
+- attended Power Skills session
+- revised backend concepts
+
+### What I will do next:
+- implement Spring Security basics
+
+### Issues:
+- None
+
+---
+
+## 30th March, 2026
+
+### What I’ve done:
+- started Spring Security concepts
+- implemented authentication basics
+
+### What I will do next:
+- continue authorization and security configurations
+
+### Issues:
+- understanding role-based access configuration
+
+---
+
+## 31st March, 2026
+
+### What I’ve done:
+- continued Spring Security implementation
+- practiced secured REST API endpoints
+
+### What I will do next:
+- start Hospital Management System project
+
+### Issues:
+- None
+
+---
+
+## 1st April, 2026
+
+### What I’ve done:
+- started Hospital Management System project
+- created project structure and modules
+
+### What I will do next:
+- implement backend functionalities
+
+### Issues:
+- None
+
+---
+
+## 2nd April, 2026
+
+### What I’ve done:
+- implemented HMS entity and service layers
+- worked on API development
+
+### What I will do next:
+- continue HMS API integration
+
+### Issues:
+- None
+
+---
+
+## 3rd April, 2026
+
+### What I’ve done:
+- continued Hospital Management System development
+- tested CRUD APIs
+
+### What I will do next:
+- revise Spring Security and HMS modules
+
+### Issues:
+- None
+
+---
+
+## 4th April, 2026
+
+### What I’ve done:
+- attended Power Skills session
+- improved communication and presentation skills
+
+### What I will do next:
+- start Fundoo Notes App
+
+### Issues:
+- None
+
+---
+
+## 6th April, 2026
+
+### What I’ve done:
+- started Fundoo Notes App
+- created backend project setup
+
+### What I will do next:
+- implement notes management features
+
+### Issues:
+- None
+
+---
+
+## 7th April, 2026
+
+### What I’ve done:
+- continued Fundoo Notes App
+- implemented REST APIs for notes operations
+
+### What I will do next:
+- start JMS with Spring Boot
+
+### Issues:
+- None
+
+---
+
+## 8th April, 2026
+
+### What I’ve done:
+- started JMS with Spring Boot
+- understood message queue concepts
+
+### What I will do next:
+- implement producer-consumer communication
+
+### Issues:
+- None
+
+---
+
+## 9th April, 2026
+
+### What I’ve done:
+- implemented JMS producer and consumer modules
+
+### What I will do next:
+- continue JMS integration and testing
+
+### Issues:
+- None
+
+---
+
+## 10th April, 2026
+
+### What I’ve done:
+- completed JMS integration using Spring Boot
+- tested message flow successfully
+
+### What I will do next:
+- start Spring Batch processing
+
+### Issues:
+- None
+
+---
+
+## 11th April, 2026
+
+### What I’ve done:
+- attended Power Skills session
+
+### What I will do next:
+- continue Spring Batch concepts
+
+### Issues:
+- None
+
+---
+
+## 13th April, 2026
+
+### What I’ve done:
+- started Spring Batch with Excel Processing
+- configured batch jobs
+
+### What I will do next:
+- continue Excel data processing implementation
+
+### Issues:
+- None
+
+---
+
+## 14th April, 2026
+
+### What I’ve done:
+- implemented Excel file reading and processing
+- tested batch execution flow
+
+### What I will do next:
+- continue Spring Batch project
+
+### Issues:
+- None
+
+---
+
+## 15th April, 2026
+
+### What I’ve done:
+- continued Spring Batch implementation
+- handled batch job configuration updates
+
+### What I will do next:
+- optimize batch processing
+
+### Issues:
+- None
+
+---
+
+## 16th April, 2026
+
+### What I’ve done:
+- improved batch execution and logging
+- tested multiple batch jobs
+
+### What I will do next:
+- finalize Spring Batch project
+
+### Issues:
+- None
+
+---
+
+## 17th April, 2026
+
+### What I’ve done:
+- completed Spring Batch with Excel Processing project
+- pushed updated code to GitHub
+
+### What I will do next:
+- start BookStore Microservices project
+
+### Issues:
+- None
+
+---
+
+## 18th April, 2026
+
+### What I’ve done:
+- attended Power Skills session
+
+### What I will do next:
+- continue Microservices concepts
+
+### Issues:
+- None
+
+---
+
+## 19th April, 2026
+
+### What I’ve done:
+- started BookStore Microservices project
+- configured microservice architecture
+
+### What I will do next:
+- implement service communication
+
+### Issues:
+- None
+
+---
+
+## 20th April, 2026
+
+### What I’ve done:
+- developed APIs for BookStore Microservices
+- worked on service layer implementation
+
+### What I will do next:
+- continue integration between services
+
+### Issues:
+- None
+
+---
+
+## 21st April, 2026
+
+### What I’ve done:
+- implemented inter-service communication
+- tested API responses
+
+### What I will do next:
+- continue project modules
+
+### Issues:
+- None
+
+---
+
+## 22nd April, 2026
+
+### What I’ve done:
+- continued BookStore Microservices development
+- worked on database integration
+
+### What I will do next:
+- complete pending modules
+
+### Issues:
+- None
+
+---
+
+## 23rd April, 2026
+
+### What I’ve done:
+- implemented additional microservice functionalities
+- improved project structure
+
+### What I will do next:
+- finalize project testing
+
+### Issues:
+- None
+
+---
+
+## 24th April, 2026
+
+### What I’ve done:
+- continued testing and debugging for BookStore Microservices
+
+### What I will do next:
+- complete project deployment preparation
+
+### Issues:
+- None
+
+---
+
+## 27th April, 2026
+
+### What I’ve done:
+- completed BookStore Microservices project
+- revised Microservices architecture concepts
+
+### What I will do next:
+- start AWS basics
+
+### Issues:
+- None
+
+---
+
+## 28th April, 2026
+
+### What I’ve done:
+- started AWS concepts
+- explored EC2 and IAM basics
+
+### What I will do next:
+- continue AWS services practice
+
+### Issues:
+- None
+
+---
+
+## 29th April, 2026
+
+### What I’ve done:
+- practiced AWS EC2 instance setup
+- learned security groups and connectivity
+
+### What I will do next:
+- continue cloud deployment concepts
+
+### Issues:
+- None
+
+---
+
+## 30th April, 2026
+
+### What I’ve done:
+- continued AWS practice
+- worked on deployment basics
+
+### What I will do next:
+- revise AWS concepts
+
+### Issues:
+- None
+
+---
+
+## 1st May, 2026
+
+### What I’ve done:
+- revised AWS services and deployment workflow
+
+### What I will do next:
+- start Digital Supply Chain project
+
+### Issues:
+- None
+
+---
+
+## 2nd May, 2026
+
+### What I’ve done:
+- attended Power Skills session
+
+### What I will do next:
+- continue project work
+
+### Issues:
+- None
+
+---
+
+## 4th May, 2026
+
+### What I’ve done:
+- started Digital Supply Chain Tracker project
+- understood project architecture and module distribution
+
+### What I will do next:
+- work on assigned microservice module
+
+### Issues:
+- None
+
+---
+
+## 5th May, 2026
+
+### What I’ve done:
+- implemented initial APIs for assigned service
+- configured project dependencies
+
+### What I will do next:
+- continue backend implementation
+
+### Issues:
+- dependency configuration issues
+
+---
+
+## 6th May, 2026
+
+### What I’ve done:
+- attended M1 reattempt
+- revised Spring Boot and Microservices concepts
+
+### What I will do next:
+- continue Digital Supply Chain Tracker development
+
+### Issues:
+- None
+
+---
+
+## 7th May, 2026
+
+### What I’ve done:
+- continued backend development for Digital Supply Chain Tracker
+- worked on database integration
+
+### What I will do next:
+- test APIs and service communication
+
+### Issues:
+- None
+
+---
+
+## 8th May, 2026
+
+### What I’ve done:
+- tested REST APIs using Postman
+- fixed bugs in service implementation
+
+### What I will do next:
+- continue project enhancements
+
+### Issues:
+- API response handling issues
+
+---
+
+## 9th May, 2026
+
+### What I’ve done:
+- worked on GitFlow collaboration and branch management
+- integrated latest code updates from team members
+
+### What I will do next:
+- continue microservice implementation
+
+### Issues:
+- merge conflict resolution during integration
+
+---
+
+## 11th May, 2026
+
+### What I’ve done:
+- continued Digital Supply Chain Tracker implementation
+- reviewed service integration flow
+
+### What I will do next:
+- finalize pending functionalities
+
+### Issues:
+- None
+
+---
+
+## 12th May, 2026
+
+### What I’ve done:
+- continued project development and testing
+- verified API functionality and database operations
+
+### What I will do next:
+- continue deployment and integration tasks
+
+### Issues:
+- None
+
+---
